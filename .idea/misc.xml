@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/compose-model-1658654094515.xml" value="0.165" />
+        <entry key="../../../../layout/compose-model-1658659075848.xml" value="1.0" />
+        <entry key="../../../../layout/compose-model-1658659195257.xml" value="0.25" />
+        <entry key="../../../../layout/compose-model-1658730550314.xml" value="0.1" />
+        <entry key="../../../../layout/compose-model-1658754072476.xml" value="0.32222222222222224" />
+        <entry key="../../../../layout/compose-model-1658754095821.xml" value="0.1" />
+        <entry key="../../../../layout/compose-model-1658760099563.xml" value="0.29180743243243246" />
+        <entry key="../../../../layout/compose-model-1658781234314.xml" value="0.25" />
+        <entry key="../../../../layout/compose-model-1658827183858.xml" value="0.1" />
+        <entry key="../../../../layout/compose-model-1658827294478.xml" value="0.1" />
+        <entry key="../../../../layout/compose-model-1658827393548.xml" value="0.29096283783783783" />
+        <entry key="../../../../layout/compose-model-1658831291679.xml" value="0.1" />
+        <entry key="../../../../layout/compose-model-1658834455864.xml" value="0.354788877445932" />
+        <entry key="../../../../layout/compose-model-1658920197396.xml" value="0.1" />
+        <entry key="../../../../layout/compose-model-1658920198640.xml" value="1.0" />
+        <entry key="../../../../layout/compose-model-1658931873979.xml" value="0.1" />
+        <entry key="../../../../layout/compose-model-1659000081616.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/account_background.xml" value="0.154" />
+        <entry key="app/src/main/res/drawable/account_foreground.xml" value="0.154" />
+        <entry key="app/src/main/res/drawable/community_events_background.xml" value="0.104" />
+        <entry key="app/src/main/res/drawable/custom_edit_text.xml" value="0.1385" />
+        <entry key="app/src/main/res/drawable/edit_text_selector.xml" value="0.1595" />
+        <entry key="app/src/main/res/drawable/radio_flat_regular.xml" value="0.2125" />
+        <entry key="app/src/main/res/drawable/radio_flat_selected.xml" value="0.2125" />
+        <entry key="app/src/main/res/drawable/radio_flat_selector.xml" value="0.2125" />
+        <entry key="app/src/main/res/drawable/radio_flat_text_selector.xml" value="0.2125" />
+        <entry key="app/src/main/res/font-v26/sfpro.xml" value="0.30462962962962964" />
+        <entry key="app/src/main/res/font/sfpro.xml" value="0.30462962962962964" />
+        <entry key="app/src/main/res/layout/activity_applicant_status.xml" value="0.1590316772460938" />
+        <entry key="app/src/main/res/layout/activity_community_events.xml" value="0.25531198715385034" />
+        <entry key="app/src/main/res/layout/activity_event_applicants.xml" value="0.25124664306640626" />
+        <entry key="app/src/main/res/layout/activity_event_participants.xml" value="0.10816588285592134" />
+        <entry key="app/src/main/res/layout/activity_inside_app.xml" value="0.2110232104052295" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_my_events.xml" value="0.22700958251953127" />
+        <entry key="app/src/main/res/layout/activity_potential_events.xml" value="0.17135086128739802" />
+        <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.2679473876953125" />
+        <entry key="app/src/main/res/layout/applicant_card_layout.xml" value="0.33675564681724846" />
+        <entry key="app/src/main/res/layout/card_item.xml" value="0.5108551025390625" />
+        <entry key="app/src/main/res/layout/fragment_account.xml" value="0.2620778110303549" />
+        <entry key="app/src/main/res/layout/fragment_add_event.xml" value="0.2917984008789063" />
+        <entry key="app/src/main/res/layout/fragment_blank.xml" value="0.2736212056434374" />
+        <entry key="app/src/main/res/layout/fragment_chat.xml" value="0.2736212056434374" />
+        <entry key="app/src/main/res/layout/fragment_events.xml" value="0.2736212056434374" />
+        <entry key="app/src/main/res/layout/fragment_inside_event.xml" value="0.2620778110303549" />
+        <entry key="app/src/main/res/layout/fragment_scrolling.xml" value="0.2736212056434374" />
+        <entry key="app/src/main/res/layout/partipant_card_layout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/potential_events_layout.xml" value="0.7134884310953933" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.2736212056434374" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

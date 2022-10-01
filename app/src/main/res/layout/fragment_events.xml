@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_cards"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".InsideAppActivity">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="30dp"
+        android:layout_gravity="center"
+        android:textSize="60dp"
+        android:textColor="@color/black"
+        android:fontFamily="@font/sfproheavy"
+        android:text="Events"/>
+<!--    <RadioGroup-->
+<!--        android:id="@+id/daily_weekly_button_view"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginStart="8dp"-->
+<!--        android:layout_marginLeft="8dp"-->
+<!--        android:layout_marginTop="8dp"-->
+<!--        android:layout_marginBottom="20dp"-->
+<!--        android:layout_marginEnd="8dp"-->
+<!--        android:layout_marginRight="8dp"-->
+<!--        android:gravity="center_horizontal"-->
+<!--        android:orientation="horizontal"-->
+<!--        tools:layout_constraintEnd_toEndOf="parent"-->
+<!--        tools:layout_constraintStart_toStartOf="parent"-->
+<!--        tools:layout_constraintTop_toTopOf="parent">-->
+
+
+<!--        <RadioButton-->
+<!--            android:id="@+id/radio0"-->
+<!--            android:layout_width="170dp"-->
+<!--            android:gravity="center"-->
+<!--            android:layout_height="40dp"-->
+<!--            android:background="@drawable/radio_flat_selector"-->
+<!--            android:button="@android:color/transparent"-->
+<!--            android:checked="true"-->
+<!--            android:paddingLeft="16dp"-->
+<!--            android:paddingTop="3dp"-->
+<!--            android:paddingRight="16dp"-->
+<!--            android:paddingBottom="3dp"-->
+<!--            android:text="Top"-->
+<!--            android:fontFamily="@font/sfprosemibold"-->
+<!--            android:textColor="@color/radio_flat_text_selector" />-->
+
+<!--        <RadioButton-->
+<!--            android:id="@+id/radio1"-->
+<!--            android:gravity="center"-->
+<!--            android:layout_width="170dp"-->
+<!--            android:layout_height="40dp"-->
+<!--            android:background="@drawable/radio_flat_selector"-->
+<!--            android:button="@android:color/transparent"-->
+<!--            android:paddingLeft="16dp"-->
+<!--            android:paddingTop="3dp"-->
+<!--            android:paddingRight="16dp"-->
+<!--            android:paddingBottom="3dp"-->
+<!--            android:text="Trending"-->
+<!--            android:fontFamily="@font/sfprosemibold"-->
+<!--            android:textColor="@color/radio_flat_text_selector" />-->
+
+<!--    </RadioGroup>-->
+
+    <ListView
+        android:id="@+id/list_cards"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@null"
+        android:dividerHeight="0dp"/>
+    <TextView
+        android:id="@+id/empty"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/sfproheavy"
+        android:alpha="0.5"
+        android:textColor="@color/black"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="No Events Currently, check back in Later!"
+        />
+
+</LinearLayout>
+
